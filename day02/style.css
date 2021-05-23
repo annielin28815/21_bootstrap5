@@ -1,0 +1,91 @@
+.btn {
+  cursor: pointer;
+  padding: 6px 12px;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin: 4px 2px;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+.btn-blue {
+  color: #fff;
+  background-color: #113285;
+  border-color: #113285;
+}
+
+.btn-gray {
+  color: #fff;
+  background-color: #656765;
+  border-color: #656765;
+}
+
+.btn-green {
+  color: #fff;
+  background-color: #0f4c3a;
+  border-color: #0f4c3a;
+}
+
+.btn-red {
+  color: #fff;
+  background-color: #b54434;
+  border-color: #b54434;
+}
+
+.btn-orange {
+  color: #000;
+  background-color: #fc9f4d;
+  border-color: #fc9f4d;
+}
+
+.btn-yellow {
+  color: #000;
+  background-color: #ffb11b;
+  border-color: #ffb11b;
+}
+
+.btn-small {
+  padding: 5px 9px;
+  font-size: 15px;
+  border-radius: 3px;
+}
+
+.btn-middle {
+  padding: 8px 18px;
+  font-size: 20px;
+  border-radius: 4px;
+}
+
+.btn-large {
+  padding: 12px 24px;
+  font-size: 32px;
+  border-radius: 6px;
+}
+
+.btn-outline-blue {
+  color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.btn-outline-gray {
+  color: #6c757d;
+  border-color: #6c757d;
+}
+
+.btn-outline-green {
+  color: #198754;
+  border-color: #198754;
+}
+
+.btn-outline-red {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+
+.btn-outline-yellow {
+  color: #ffc107;
+  border-color: #ffc107;
+}
